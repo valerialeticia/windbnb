@@ -1,3 +1,3 @@
-# template-project
+# windbnb
 
-template vue para playground
+a small version of airbnb
